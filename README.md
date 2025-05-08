@@ -1,15 +1,18 @@
 # Hynix-Client-First-Steps
 
-После открытия проекта (В САМОЙ НОВОЙ ВЕРСИИ):
+# Cначала:
+1. Если в РФ включите ВПН
+2. Установите плагин: "Minecraft Development"
+Теперь можно вырубить!
 
+# После открытия проекта (В САМОЙ НОВОЙ ВЕРСИИ):
 1. Нажимаем три полоски
 2. "Project Structure"
 3. Плюсик
 4. SDK = JDK 17 Adoptium
 5.Main CLass = "src/io/hynix/HynixMain.java" (без коычек)
 
-Доп. пункт:
-
+# Доп. пункт:
 Если пишет нету, то
 
 "src/io/hynix/HynixMain.java/HynixMain()", я хз
